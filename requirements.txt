@@ -9,6 +9,7 @@ streamlit
 scikit-learn
 nltk
 jupyterlab
-tensorFlow==2.17.0
+tensorFlow==2.20.0
 
 tensorboard
+
